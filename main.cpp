@@ -6,7 +6,7 @@ using std::endl;
 
 void question1();
 
-void foo(int &x, double &y, char &c);
+void foo(int& x, double& y, char& c);
 
 void question2();
 
@@ -69,7 +69,7 @@ void question1() {
 }
 
 // Change the function to take references to variable of the pointer or variable
-void foo(int &x, double &y, char &c) {
+void foo(int& x, double& y, char& c) {
     x += 1;
     y += 2;
     ++c;
