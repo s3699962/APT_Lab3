@@ -144,9 +144,9 @@ bool getCharacter(char *c) {
 
 void question4() {
     cout << "QUESTION 4" << endl;
-    Card cardRed7(1, "Red", 7, "Highest Card Wins");
-    cout << "Red 7: Number: " << cardRed7.getUniqueNumber() << ", Colour: " << cardRed7.getColour()
-         << ", Colour Number: " << cardRed7.getColourNumber() << ", Rule: " << cardRed7.getRule() << endl << endl;
+    Card* cardRed7 = new Card(1, "Red", 7, "Highest Card Wins");
+    cout << "Red 7: Number: " << cardRed7->getUniqueNumber() << ", Colour: " << cardRed7->getColour()
+         << ", Colour Number: " << cardRed7->getColourNumber() << ", Rule: " << cardRed7->getRule() << endl << endl;
 }
 
 void question5() {
@@ -163,7 +163,7 @@ void question5() {
 
 //corrected swap function- swaps the values
 void swap(int* a, int* b) {
-    int* tmp = a;
+    int tmp = *a;
     *a = *b;
-    *b = *tmp;
+    *b = tmp;
 }

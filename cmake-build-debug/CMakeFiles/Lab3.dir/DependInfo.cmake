@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jxr027/CLionProjects/Lab3/Card.cpp" "/Users/jxr027/CLionProjects/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/Card.cpp.o"
-  "/Users/jxr027/CLionProjects/Lab3/main.cpp" "/Users/jxr027/CLionProjects/Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/main.cpp.o"
+  "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab3/Card.cpp" "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/Card.cpp.o"
+  "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab3/main.cpp" "/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab3/cmake-build-debug/CMakeFiles/Lab3.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

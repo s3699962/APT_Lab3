@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/jxr027/CLionProjects/Lab3/Card.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab3/Card.h
 string
 -
 
-/Users/jxr027/CLionProjects/Lab3/main.cpp
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab3/main.cpp
 iostream
 -
 Card.h
-/Users/jxr027/CLionProjects/Lab3/Card.h
+/Users/matthew/Desktop/Adavanced_Programming_Techniques/APT_Lab3/Card.h
 
